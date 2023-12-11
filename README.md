@@ -6,4 +6,7 @@
 2. Navigate to project root folder.
 3. Run command ```npm ci``` in terminal VScode.
 4. After, execute ```npx cypress open```  to run tests.
-5. You can find test scripts by this path: cypress/e2e/testHomePage.cy.js
+5. Select "E2E Testing" and any browser.
+6. Click on "Start E2E Testing in selected browser".
+7. Click on testHomePage.cy.js
+8. You can find test scripts by this path: cypress/e2e/testHomePage.cy.js
